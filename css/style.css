@@ -2,5 +2,11 @@ p
 {
     width:auto;
     margin:auto;
+    text-align: justify;
+}
 
+
+#colorlib-main
+{
+    width: calc(100% - 300px);
 }
