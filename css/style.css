@@ -1,12 +1,17 @@
-p
-{
-    width:auto;
-    margin:auto;
-    text-align: justify;
+h1 {
+  color: #000;
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 400;
+  margin: 0 0 30px 0; }
+}
+
+p {
+  width:auto;
+  margin:auto;
+  text-align: justify;
 }
 
 
-#colorlib-main
-{
-    width: calc(100% - 300px);
+#colorlib-main {
+  width: calc(100% - 300px);
 }
