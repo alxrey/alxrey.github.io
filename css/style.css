@@ -13,9 +13,9 @@ h2{
 }
 
 p {
-  width:auto;
-  margin:auto;
-  text-align: justify;
+  margin-bottom: 1.5em;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
